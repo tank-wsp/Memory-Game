@@ -7,10 +7,11 @@ Udacity Memory Game Project
 - A modal will appear when all matches are made.
 
 ## Screenshots
+
 ### Starting Screen
 ![memory game start](https://user-images.githubusercontent.com/28584443/41500286-a7e9c4ec-715c-11e8-8dd8-a93eeab9ca7f.JPG)
 
-### When a Match is selected
+### When a Match is Selected
 ![memory game match](https://user-images.githubusercontent.com/28584443/41500282-95cdb4d0-715c-11e8-8c4f-a76ebbd983b8.JPG)
 
 ### Winning Modal
